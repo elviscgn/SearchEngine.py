@@ -45,3 +45,6 @@ engine.search("soccer")       # []          <- no match
 - Ignore punctuations for now
 - Only exact matches count (altho your next exercise for this is how you're handle search queries that are very similar or have typos eg (durbon -> durban; brai -> braai; johhanesburg -> johannesburg)
 - If no documents match return empty list
+  
+## Future
+- https://en.wikipedia.org/wiki/Tf%E2%80%93idf
